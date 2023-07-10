@@ -1,4 +1,5 @@
 # This fork is a offline only version
+- Add windows platform support
 - Pack all external assets together for browser not able to access public internet.
 - Remove all internet access for the backend web server
 - Support HTTPS
