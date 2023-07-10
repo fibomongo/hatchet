@@ -1,3 +1,10 @@
+# This fork is a offline only version
+- Pack all external assets together for browser not able to access public internet.
+- Remove all internet access for the backend web server
+- Support HTTPS
+- Support a Basic user login
+
+
 # Hatchet - MongoDB JSON Log Analyzer and Viewer
 Hatchet is a powerful and sophisticated logs analyzer and viewer specifically designed for MongoDB JSON logs. It provides advanced features for logs processing, aggregation and storage of the processed data. To make the data accessible and usable for its users, Hatchet utilizes an embedded SQLite3 database. This database allows for the storage of processed and aggregated data and makes it possible to offer RESTful APIs and a web interface to users.
 
